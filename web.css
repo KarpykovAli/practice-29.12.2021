@@ -1,0 +1,30 @@
+body {
+   background-color: #A16FE1;
+}
+h1 {
+   font-size: 24px;
+}
+.parrot{
+	border-style: dashed solid;
+}
+.kali{
+	border: dashed blue;
+	
+}
+.popik {
+	width: 100px;
+
+}
+.macaw {
+	width: 100px;
+	margin-left: 360px;
+}
+.mw {
+	margin-left: 450px;
+}
+.donot{
+	font-size: 20px;
+	border-style: inset;
+	border: outset;
+	border-color: red;
+}
